@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470517388693",
+    "project_id": "bioaccess-4cc78",
+    "storage_bucket": "bioaccess-4cc78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470517388693:android:c2db842ef7c9d9605a529c",
+        "android_client_info": {
+          "package_name": "com.ve.oscargnu.bioaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkGOv4qboLwWLrN_e5Vbod2zOaKqY1kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
