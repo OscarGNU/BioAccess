@@ -1,4 +1,5 @@
 BioAccess 🔒📱
+<br>
 BioAccess is a modern Android application that demonstrates advanced implementations of biometric security and push notifications. Developed with MVVM architecture and Android best practices.
 
 ✨ Key Features
